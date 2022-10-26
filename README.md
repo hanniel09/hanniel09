@@ -13,4 +13,4 @@ I am a very practical person in the logical part with a great development in mat
 (Brazilian Public School Mathematics Olympiad- 2021). 
 Anyway, this is me, a young man open to new vacancies and willing to face new experiences and develop new skills.
 I'm from Brazil, more specifically from Patos, Pb.
-I'm 16 years old. I'm starting my first career after high school and next year I'll be joining the faculty of systems analysis and development
+I'm 16 years old. I'm starting my first career after high school and next year I'll be joining the faculty of systems analysis and development.
