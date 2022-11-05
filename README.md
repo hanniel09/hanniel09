@@ -4,7 +4,7 @@
 - 💞️ I want to work in companies and participate in developer communities
 - 📫 How to reach me:
 ##### hannielvieira1227@gmail.com
-##### Linkedln [🔗Click here to access](https://www.linkedin.com/in/hanniel-v-aa55a1232/)
+##### [🔗Linkedln](https://www.linkedin.com/in/hanniel-v-aa55a1232/)
 
 > # About me
 
