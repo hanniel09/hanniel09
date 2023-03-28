@@ -1,16 +1,30 @@
-- 👋 Hi, I'm @hanniel09
-- 👀 I'm interested in backend development
-- 🌱 I'm updating node.js
-- 💞️ I want to work in companies and participate in developer communities
-- 📫 How to reach me:
-##### hannielvieira1227@gmail.com
-##### [🔗Linkedln](https://www.linkedin.com/in/hanniel-v-aa55a1232/)
+### Olá, Eu sou Hanniel Vieira
 
-> # About me
+- 🔭 Desenvolvedor backend
+- 🌱 Estudando Typescript
 
-I am a young enthusiast with programming, who seeks to grow in the area and work, as well as learn new technologies and adapt to the market according to their needs.
-I am a very practical person in the logical part with a great development in mathematics, having a certificate of honorable mention at Obmep 
-(Brazilian Public School Mathematics Olympiad- 2021). 
-Anyway, this is me, a young man open to new vacancies and willing to face new experiences and develop new skills.
-I'm from Brazil, more specifically from Patos, Pb.
-I'm 16 years old. I'm starting my first career after high school and next year I'll be joining the faculty of systems analysis and development.
+<div>
+  <a href="https://github.com/hanniel09/">
+   <img  width="500em"  src="https://github-readme-stats.vercel.app/api?username=hanniel09&show_icons=true&theme=cobalt" />
+  <img width="450em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanniel09&layout=compact&theme=cobalt" />
+  
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Hanniel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Hanniel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Hanniel-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+</div>
+          
+          
+
+##
+  
+<div>
+  <a href="https://instagram.com/hanniel_v/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:hannielvieira1227@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hanniel-v-aa55a1232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+</div>
