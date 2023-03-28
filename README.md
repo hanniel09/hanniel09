@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/hanniel09/">
-   <img  width="500em"  src="https://github-readme-stats.vercel.app/api?username=hanniel09&show_icons=true&theme=cobalt" />
-  <img width="450em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanniel09&layout=compact&theme=cobalt" />
+   <img  width="400em"  src="https://github-readme-stats.vercel.app/api?username=hanniel09&show_icons=true&theme=cobalt" />
+  <img width="360em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanniel09&layout=compact&theme=cobalt" />
   
 </div>
 
@@ -25,6 +25,4 @@
   <a href = "mailto:hannielvieira1227@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/hanniel-v-aa55a1232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-</div>
-
-</div>
+ ![snake gif](https://github.com/devalexandre/hanniel09/blob/output/github-contribution-grid-snake.svg)
