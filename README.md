@@ -1,7 +1,8 @@
 ### Olá, Eu sou Hanniel Vieira
 
-- 🔭 Desenvolvedor backend.
-- 🌱 Estudando Typescript e Nestjs.
+- 🔭 Desenvolvedor backend .
+- 🌱 Typescript.
+- 📖 Estudando Java.
 
 <div>
   <a href="https://github.com/hanniel09/">
