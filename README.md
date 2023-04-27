@@ -7,7 +7,7 @@
 <div>
   <a href="https://github.com/hanniel09/">
    <img  width="400em"  src="https://github-readme-stats.vercel.app/api?username=hanniel09&show_icons=true&theme=cobalt&hide_border=false" />
-  <img width="360em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanniel09&layout=compact&theme=cobalt&hide_border=false" />
+  <img width="310em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanniel09&layout=compact&theme=cobalt&hide_border=false" />
   
 </div>
 
