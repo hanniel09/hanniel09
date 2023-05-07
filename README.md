@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor backend .
 - 🌱 Typescript.
-- 📖 Estudando Java.
+- 📖 Estudando Java..
 
 <div>
   <a href="https://github.com/hanniel09/">
