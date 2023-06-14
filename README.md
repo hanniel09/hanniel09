@@ -1,7 +1,7 @@
 ### Olá, Eu sou Hanniel Vieira
 
 - 🔭 Desenvolvedor backend .
-- 🌱 Typescript & Java.
+- 🌱 Java & Typescript.
 - 📖 Estudando JDBC.
 
 <div>
