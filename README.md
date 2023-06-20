@@ -6,10 +6,10 @@
 
 <div>
   <a href="https://github.com/hanniel09">
-   <img  width="400em"  src="https://github-readme-stats.vercel.app/api?username=hanniel09&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" />
+   <img  width="400em"  src="https://github-readme-stats.vercel.app/api?username=hanniel09&show_icons=true&theme=dark&hide_border=true" alt="Hanniel github stats" />
   </a>
   <a href="https://github.com/hanniel09/github-readme-stats">
-    <img width="310em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanniel09&layout=compact&theme=dark&hide_border=true" />
+    <img width="310em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hanniel09&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" />
   </a>
   
 </div>
