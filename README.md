@@ -2,7 +2,7 @@
 
 - 🔭 Desenvolvedor backend.
 - 🌱 Java & Typescript.
-- 📖 Estudando Spring.
+- 📖 Estudando Spring & Angular.
 
 <div>
   <a href="https://github.com/hanniel09">
