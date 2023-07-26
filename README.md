@@ -1,8 +1,9 @@
 ## Olá, Eu sou Hanniel Vieira!
 
-- 🔭 Backend Developer.
+- 🔭 FullStack Developer.
 - 🌱 Java & Typescript.
 - 📖 Estudando Spring & Angular.
+- ⚛️ Software Architecture.
 
 <div>
   <a href="https://github.com/hanniel09">
