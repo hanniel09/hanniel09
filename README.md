@@ -2,8 +2,10 @@
 
 - 🔭 FullStack Developer.
 - 🌱 Java & Typescript.
+- 📕Nest & Node.
 - 📖 Estudando Spring & Angular.
 - ⚛️ Software Architecture.
+
 
 <div>
   <a href="https://github.com/hanniel09">
