@@ -1,9 +1,9 @@
 ## Olá, Eu sou Hanniel Vieira!
 
 - 🔭 FullStack Developer.
-- 🌱 Java & Typescript.
+- 🌱 Java & Spring.
 - 📕Nest & Node.
-- 📖 Estudando Spring & Angular.
+- 📖 Estudando AWS & Angular.
 - ⚛️ Software Architecture.
 
 
