@@ -3,8 +3,9 @@
 - 🔭 Backend Developer.
 - 🌱 Java & Spring.
 - 📕Nest & Node.
-- 📖 Estudando AWS & Angular.
+- 📖 Estudando AWS.
 - ⚛️ Software Architecture.
+- ☕Java expert in progress.
 
 
 <div>
