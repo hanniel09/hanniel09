@@ -1,8 +1,7 @@
 ## Olá, Eu sou Hanniel Vieira!
 
 - 🔭 Backend Developer.
-- 🌱 Java & Spring.
-- 📕Nest & Node.
+- 🍃 Java & Spring.
 - 📖 Estudando AWS.
 - ⚛️ Software Architecture.
 - ☕Java expert in progress.
