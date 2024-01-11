@@ -14,7 +14,6 @@
   <a href="https://github.com/hanniel09/github-readme-stats">
     <img width="310em"  src="https://github-readme-stats.vercel.app/api/top-langs?username=hanniel09&show_icons=true&theme=dark&locale=en&layout=compact&hide_border=true" />
   </a>
-  
 </div>
 
 <div style="display: inline_block"><br>
