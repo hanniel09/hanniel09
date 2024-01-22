@@ -2,7 +2,8 @@
 
 - 🔭 Backend Developer.
 - 🍃 Java & Spring.
-- 📖 Estudando AWS & Microservices.
+- 📖 Studing AWS & Microservices.
+- 📨 Messaging
 - ⚛️ Software Architecture.
 - ☕Java expert in progress.
 
