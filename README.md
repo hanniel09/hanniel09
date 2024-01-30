@@ -3,7 +3,7 @@
 - 🔭 Backend Developer.
 - 🍃 Java & Spring.
 - 📖 Studing AWS & Microservices.
-- 📨 Messaging
+- 📨 Messaging Microservices.
 - ⚛️ Software Architecture.
 - ☕Java expert in progress.
 
