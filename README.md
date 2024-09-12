@@ -5,7 +5,7 @@
 - 📖 Studing AWS & Microservices.
 - 📨 Messaging Microservices.
 - ⚛️ Software Architecture.
-- ☕Java expert in progress.
+- ☕Java expert.
 
 
 <div>
