@@ -1,12 +1,12 @@
-## Olá, Eu sou Hanniel Vieira!
+<h1 align="center"> Hanniel Vieira</h1>
+<p align="center"> Hello, my name is <b>Hanniel</b>, I'm 18 years old and I'm a back-end developer but I like to play with other stacks in my spare time. </p>
+<p align="center"> I've been a developer since I was 15, so I've had a little over 3 years of experience and I like to study software architecture and IT concepts.</p>
 
-- 🔭 Backend Developer.
-- 🍃 Java & Spring.
-- 📖 Studing AWS & Microservices.
-- 📨 Messaging Microservices.
-- ⚛️ Software Architecture.
-- ☕Java expert.
-
+- 🏫 I'm studying systems analysis and development at [**Mackenzie**](https://www.mackenzie.br/).
+- 🧑‍💻 I'm active in technology communities.
+- 🌎 I'm currently taking the [**Haverd CC50 Course**](https://pll.harvard.edu/course/cs50-introduction-computer-science).
+- 📖 At the moment i'am studing AWS & Microservices.
+- 💡 My main lenguagens is [**Java**](https://www.oracle.com/br/java/) with [**Spring boot**](https://spring.io/) and [**TS**](https://www.typescriptlang.org/docs/) , but i'm open to discovering new worlds.
 
 <div>
   <a href="https://github.com/hanniel09">
