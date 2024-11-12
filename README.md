@@ -6,7 +6,7 @@
 - 🧑‍💻 I'm active in technology communities.
 - 🌎 I'm currently taking the [**Harvard CC50 Course**](https://pll.harvard.edu/course/cs50-introduction-computer-science).
 - 📖 At the moment i'am studing AWS & Microservices.
-- 💡 My main lenguagens is [**Java**](https://www.oracle.com/br/java/) with [**Spring boot**](https://spring.io/) and [**TS**](https://www.typescriptlang.org/docs/) , but i'm open to discovering new worlds.
+- 💡 My main languagens is [**Java**](https://www.oracle.com/br/java/) with [**Spring boot**](https://spring.io/) and [**TS**](https://www.typescriptlang.org/docs/) , but i'm open to discovering new worlds.
 
 <div>
   <a href="https://github.com/hanniel09">
