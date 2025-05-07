@@ -1,5 +1,5 @@
 <h1 align="center"> Hanniel Vieira</h1>
-<p align="center"> Hello! My name is <strong>Hanniel.</strong> I'm 18 years old and a back-end developer, though I enjoy exploring other tech stacks in my free time.</p>
+<p align="center"> Hello! My name is <strong>Hanniel.</strong> I'm 19 years old and a back-end developer, though I enjoy exploring other tech stacks in my free time.</p>
 <p align="center"> I’ve been developing software since the age of 15, gaining over three years of experience. 
 My interests include studying software architecture and diving into various IT concepts. </p>
 
