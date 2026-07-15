@@ -8,11 +8,6 @@
   </a>
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-High--Concurrency%20%26%20Architecture-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Environment-Linux%20%26%20Docker-green?style=flat-square" />
-</p>
-
 ## About Me
 
 I am a **Full Stack Software Engineer** with approximately 5 years of practical experience building robust backend systems, high-concurrency architectures, and responsive frontends. 
