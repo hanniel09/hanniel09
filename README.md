@@ -16,10 +16,10 @@
 
 ### ⚡ About Me
 <ul>
-  <li><b>Role:</b> Full Stack Software Engineer @ City Hall of Patos</i></li>
-  <li><b>Focus:</b> Building resilient, high-concurrency systems & scalable architectures</li>
-  <li><b>Scope:</b> Full technical lifecycle — domain design, databases, CI/CD & cloud infra</li>
-  <li><b>Philosophy:</b> Pragmatic engineering, clean code & performance-first</li>
+  <li><b>Role:</b> Full Stack Software Engineer @ City Hall of Patos.</i></li>
+  <li><b>Focus:</b> Building resilient, high-concurrency systems & scalable architectures.</li>
+  <li><b>Scope:</b> Full technical lifecycle — domain design, databases, CI/CD & cloud infra.</li>
+  <li><b>Philosophy:</b> Pragmatic engineering, clean code & performance-first.</li>
 </ul>
 
 <br/>
