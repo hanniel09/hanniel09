@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Hanniel Vieira👋🏻!</h1>
+  <h1>Hi, I'm Hanniel Vieira👋🏻</h1>
   <p><b>Full Stack Software Engineer</b></p>
 
   <a href="https://hannielvieira.com" target="_blank">
